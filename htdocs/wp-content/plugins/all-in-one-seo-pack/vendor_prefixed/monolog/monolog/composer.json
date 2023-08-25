@@ -22,7 +22,7 @@
     },
     "require-dev": {
         "phpunit\/phpunit": "~4.5",
-        "graylog2\/gelf-php": "~1.0",
+        "graylog2\/gelf-php": "~2.0",
         "sentry\/sentry": "^0.22",
         "ruflin\/elastica": ">=0.90 <3.0",
         "doctrine\/couchdb": "~1.0@dev",
