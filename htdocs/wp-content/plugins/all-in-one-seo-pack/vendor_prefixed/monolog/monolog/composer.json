@@ -21,7 +21,7 @@
         "psr\/log": "~1.0"
     },
     "require-dev": {
-        "phpunit\/phpunit": "~4.5",
+        "phpunit\/phpunit": "~10.0",
         "graylog2\/gelf-php": "~2.0",
         "sentry\/sentry": "^0.22",
         "ruflin\/elastica": ">=0.90 <3.0",
