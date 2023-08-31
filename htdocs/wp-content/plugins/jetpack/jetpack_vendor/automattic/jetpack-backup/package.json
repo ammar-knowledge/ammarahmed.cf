@@ -44,7 +44,7 @@
 		"@automattic/jetpack-base-styles": "^0.6.4",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.22.11",
-		"@babel/preset-env": "7.22.10",
+		"@babel/preset-env": "7.22.14",
 		"@babel/runtime": "7.22.11",
 		"@testing-library/dom": "9.3.1",
 		"@testing-library/react": "14.0.0",
