@@ -30,7 +30,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-api": "workspace:*",
-		"@automattic/jetpack-components": "^0.41.0",
+		"@automattic/jetpack-components": "^0.42.0",
 		"@automattic/jetpack-connection": "workspace:*",
 		"@wordpress/api-fetch": "6.37.0",
 		"@wordpress/data": "9.10.0",
