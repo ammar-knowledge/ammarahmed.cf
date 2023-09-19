@@ -55,7 +55,7 @@
 		"nojimage/twitter-text-php": "3.3.1"
 	},
 	"require-dev": {
-		"antecedent/patchwork": "2.1.25",
+		"antecedent/patchwork": "2.1.26",
 		"automattic/jetpack-changelogger": "^3.3.7",
 		"johnkary/phpunit-speedtrap": "^4.0.0 || ^2.0.0 || ^1.1.0",
 		"yoast/phpunit-polyfills": "2.0.0"
